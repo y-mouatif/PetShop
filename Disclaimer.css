@@ -1,0 +1,16 @@
+.popup{
+    border: 5px solid red;
+    background-color: rgb(159, 207, 159);
+    width: 300px;
+    text-align: center;
+    line-height:25px;
+    border-radius: 5px;
+    padding: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+h2,p{
+    background-color:rgb(159, 207, 159) ;
+}

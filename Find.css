@@ -1,0 +1,43 @@
+table.adoption-form{
+    margin-left: 40vw;
+    font-size: 30px;
+    color:rgb(2, 48, 2);
+}
+fieldset{
+    margin-left: 200px;
+    align-content: center;
+    border-color: rgb(117, 181, 117);
+    border-radius: 3px;
+}
+form{
+    padding: 10px;
+}
+label{
+    font-size: 17px;
+}
+input[type="text"],select, textarea{
+    width: 100%;
+}
+input[type="radio"]{
+    width:50%;
+
+}
+#submit,#clear{
+    background-color: rgb(183, 235, 200);
+    border-radius: 4px;
+    margin-left: 20px;
+}
+#submit:hover,#clear:hover{
+    background-color: rgb(221, 248, 221);
+    color:rgb(1, 33, 1);
+}
+input, textarea, select{
+    border: 2px solid rgb(0, 54, 24);
+    border-radius: 3px;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.catdog,input[type="radio"]{
+    width:auto;
+   
+}

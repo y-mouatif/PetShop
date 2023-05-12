@@ -1,0 +1,4 @@
+mama:dog:chihuaha:1 to 3:Female:Cutie Pie:on:on:on
+mama:dog:chihuaha:0 to 1:Female:apache:on:on:on
+Brad:cat:cute:3 to 6:Male:Cake blue:on:on:on
+Brad:cat:domestic:1 to 3:Female:Caramel:on:on:on

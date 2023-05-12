@@ -1,0 +1,23 @@
+.content, h2{
+    margin-left:200px;
+}
+.instructions{
+    font-size: 19px;
+    margin: 80px;
+    margin-left: 20px;
+    text-decoration: underline;
+    font-weight: bold;
+    line-height: 35px;
+}
+img{
+    float: left;
+    padding: 0 20px 20px 0;
+    margin: 0 20px;
+ }
+
+ p.instructions{
+    text-decoration: none;
+    font-weight: lighter;
+ }
+
+  

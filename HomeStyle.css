@@ -1,0 +1,73 @@
+*{
+    background-color: rgb(241, 253, 249);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.header{
+    border: 2px solid rgb(211, 243, 223);
+    margin-left: 180px;
+}
+img{
+    padding-left: 10px;
+}
+.sidemenu{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    position: fixed;
+    width:170px;
+    height:100%;
+    overflow:auto;
+    border-right: 2px solid rgb(129, 164, 129) ;
+}
+
+
+li a{
+    display:block;
+    border-radius: 15px;
+    text-decoration: none;
+    padding:15px 10px;
+    color:rgb(8, 125, 8);     
+}
+a:hover{
+    color: rgb(155, 234, 177);
+    background-color: rgb(33, 60, 33);
+
+}
+p{
+    text-align: center;
+
+}
+hr{
+    margin-bottom: 0;
+    color: rgb(45, 168, 45);
+    
+}
+footer{
+    position: fixed;
+    left: 0;    
+    bottom: 0;        
+    width: 100%;    
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+#disclaimer{
+    background-color: green;
+    text-decoration: none;
+    color:white;
+}
+#disclaimer:hover{
+    color:red;
+}
+.openinghours,.welcome{
+    margin-left: 200px;
+}
+table.openinghours{
+    width:100%;
+    text-align: left;
+    margin-left: 20px;
+}
+#time{
+    padding-left: 40vw;
+}
